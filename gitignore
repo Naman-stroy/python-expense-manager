@@ -1,0 +1,10 @@
+# Generated data file (created automatically when the program runs)
+expenses.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS / editor junk
+.DS_Store
+.vscode/

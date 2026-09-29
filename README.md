@@ -1,4 +1,3 @@
-# python-expense-manager
 # 💰 Personal Expense Manager
 
 A lightweight, command-line Python application to track, analyse, and manage personal expenses — built for the VITyarthi **"Build Your Own Project"** evaluation.
@@ -99,4 +98,3 @@ Real terminal screenshots (adding an expense, viewing the table, and budget aler
 ## 📄 License
 
 This project was created for academic purposes as part of a VITyarthi course evaluation.
-
